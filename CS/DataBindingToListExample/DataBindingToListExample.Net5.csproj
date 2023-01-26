@@ -5,7 +5,6 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>DataBindingToListExample</RootNamespace>
     <AssemblyName>DataBindingToListExample</AssemblyName>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWindowsForms>true</UseWindowsForms>
     <UseWPF>true</UseWPF>
     <Platforms>x86;AnyCPU</Platforms>
